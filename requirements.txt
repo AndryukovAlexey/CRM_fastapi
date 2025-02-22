@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+sqlalchemy_utils
+asyncpg
+alembic
+pydantic
+pydantic-settings
+pyjwt<2.10[crypto]
+bcrypt
+python-multipart
+aioredis
+sqladmin
+pytest
+pytest-asyncio
+httpx
